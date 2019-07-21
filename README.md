@@ -1,1 +1,4 @@
 # jenkins
+git
+github
+gerrit
